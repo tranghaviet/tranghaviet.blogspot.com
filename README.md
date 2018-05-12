@@ -1,13 +1,13 @@
-# Step
+# Post's Source code for tranghaviet.blogspot.com
 
-## Write in markdown format
+## Convert to HTML
 
-## Open Sublime text
+### 1. Open Sublime text
 
 `Ctrl+Shift+P` and choose __Markdown Preview: Copy to clipboard__
 
 Choose __markdown__ format (not __github__)
 
-## Copy html within `<article></article>`
+### 2. Copy html within `<article></article>`
 
-## Paste to blogspot
+### 3. Paste to blogspot
